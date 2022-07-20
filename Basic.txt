@@ -1,0 +1,46 @@
+Bookmark Landing Page
+
+/* Basic */
+BEGIN: 03:10
+FINISH: 03:20
+
+/* Nabar section */
+BEGIN: 03:33
+FINISH: 04:10
+
+/* Hero section */
+BEGIN: 04:10
+FINISH: 04:31
+
+/* Feature section */
+BEGIN: 04:34
+FINISH: 04:51
+
+/* Price section */
+BEGIN: 05:10
+FINISH: 05:30
+
+
+/* Question section */
+BEGIN: 05:30
+FINISH: 05:50
+
+
+/* Pricing section */
+BEGIN: 05:50
+FINISH: 06:15
+
+
+/* Contact section */
+BEGIN: 06:15
+FINISH: 06:30
+
+
+/* Footer */
+BEGIN: 06:30
+FINISH: 06:50
+
+/* OVERAL */
+3 soat 25 min 
+
+Rasmlarni yuklash va optimallashtirish shu vaqt ichida bajarilgan
